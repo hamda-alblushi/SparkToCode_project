@@ -54,7 +54,7 @@
                     }
                     Console.WriteLine("Access Granted");
 
-                    //5- Number Guessing Game
+                    //5- Number Guessing Game:
                     //////////////////////////////
                     int secretNumber = 42;
                     int guess;
