@@ -120,7 +120,7 @@
                     Console.WriteLine("Sum of even numbers = " + evenSum);
 
 
-                    //9 - Validated Positive Number Input
+                    //9- Validated Positive Number Input
                     ////////////////////////////////////
                     int userInput = 0;
                     bool validInput = false;
