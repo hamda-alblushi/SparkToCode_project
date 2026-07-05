@@ -28,7 +28,7 @@
                     Console.WriteLine("The total sum is: " + sum);
 
 
-                    //3-Multiplication Table
+                    //3-Multiplication Table:
                     //////////////////////
                     Console.WriteLine("Enter a Number:");
                     int numb = int.Parse(Console.ReadLine());
