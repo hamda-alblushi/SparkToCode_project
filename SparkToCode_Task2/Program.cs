@@ -80,7 +80,7 @@
                     Console.WriteLine("Attempts: " + attempts);
 
 
-                    //6- Safe Division Calculator
+                    //6- Safe Division Calculator:
                     ////////////////////////////////
                     try
                     {
