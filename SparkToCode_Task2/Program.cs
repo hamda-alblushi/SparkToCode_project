@@ -104,7 +104,7 @@
                     }
 
 
-                    //8-Sum of Even Numbers Only
+                    //8- Sum of Even Numbers Only
                     ///////////////////////////////////
                     Console.WriteLine("Enter a positive number:");
                     int userNumber = int.Parse(Console.ReadLine());
