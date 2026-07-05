@@ -37,7 +37,7 @@
                         int result = numb * i;
                         Console.WriteLine(numb + " x " + i + " = " + result);
                     }
-                    //4-Password Retry
+                    //4-Password Retry:
 
                     /////////////////////////////////
                     string password = "Spark2026";
