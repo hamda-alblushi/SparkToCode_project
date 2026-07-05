@@ -16,7 +16,7 @@
                     Console.WriteLine("Liftoff!");
 
 
-                    //2 - Sum of Numbers 1 to N
+                    //2 - Sum of Numbers 1 to N:
                     ////////////////////////////
                     Console.WriteLine("Enter a positive number:");
                     int number = int.Parse(Console.ReadLine());
