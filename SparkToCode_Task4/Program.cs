@@ -100,7 +100,7 @@
             return length * width;
         }
 
-        //TASK11:Function-Based Calculator
+        //TASK11: Function-Based Calculator
         static double Add(double num1, double num2)
         {
             return num1 + num2;
