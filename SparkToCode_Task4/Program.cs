@@ -45,7 +45,7 @@
             return 2 * (length + width);
         }
 
-        //TASK7: Create a method called GetGradeLetter that takes an integer parameter called score and returns a string representing the letter grade based on the following scale:
+        //TASK7:  Create a method called GetGradeLetter that takes an integer parameter called score and returns a string representing the letter grade based on the following scale:
         static string GetGradeLetter(int score)
         {
             if (score >= 90)
