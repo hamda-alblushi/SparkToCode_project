@@ -73,7 +73,7 @@
             }
         }
 
-        //TASK9 : Create a method called Multiply that takes two integer parameters called a and b and returns the product of a and b. Overload this method to also accept two double parameters and return the product as a double. Additionally, overload the method to accept three integer parameters and return the product of all three integers.
+        //TASK9 :  Create a method called Multiply that takes two integer parameters called a and b and returns the product of a and b. Overload this method to also accept two double parameters and return the product as a double. Additionally, overload the method to accept three integer parameters and return the product of all three integers.
         static int Multiply(int a, int b)
         {
             return a * b;
