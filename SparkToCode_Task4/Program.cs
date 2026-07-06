@@ -8,7 +8,7 @@
             Console.WriteLine("Welcome " + name);
         }
 
-        //TASK2 : Create a method called Square that takes an integer parameter called number and returns the square of that number.
+        //TASK2 : Create a method called Square that takes an integer parameter called number and returns the square of that number .
         static int Square(int number)
         {
             return number * number;
