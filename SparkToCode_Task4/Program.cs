@@ -132,7 +132,7 @@
             }
         }
 
-        //TASK12:Student Report Card Generator
+        //TASK12: Student Report Card Generator
         static double CalculateAverage(double score1, double score2, double score3)
         {
             return (score1 + score2 + score3) / 3;
