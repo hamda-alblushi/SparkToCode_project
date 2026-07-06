@@ -64,7 +64,7 @@
                 return "F";
         }
 
-        //TASK8: Create a method called Countdown that takes an integer parameter called start and prints a countdown from the start value to 1, one number per line.
+        //TASK8:  Create a method called Countdown that takes an integer parameter called start and prints a countdown from the start value to 1, one number per line.
         static void Countdown(int start)
         {
             for (int i = start; i >= 1; i--)
