@@ -14,7 +14,7 @@
             return number * number;
         }
 
-        //TASK3: convert celsius to fahrenheit
+        //TASK3: convert celsius to fahrenheit 
         static double CelsiusToFahrenheit(double celsius)
         {
             return (celsius * 9 / 5) + 32;
