@@ -34,7 +34,7 @@
             return number % 2 == 0;
         }
 
-        //TASK6: Create a method called CalculateArea that takes two double parameters called length and width and returns the area of a rectangle (length * width).
+        //TASK6:  Create a method called CalculateArea that takes two double parameters called length and width and returns the area of a rectangle (length * width).
         static double CalculateArea(double length, double width)
         {
             return length * width;
