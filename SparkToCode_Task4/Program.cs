@@ -89,7 +89,7 @@
             return a * b * c;
         }
 
-        //TASK10: Create a method called CalculateArea that takes a single double parameter called side and returns the area of a square (side * side).
+        //TASK10:  Create a method called CalculateArea that takes a single double parameter called side and returns the area of a square (side * side).
         static double CalculateArea(double side)
         {
             return side * side;
