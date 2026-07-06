@@ -28,7 +28,7 @@
             Console.WriteLine("3-exit");
         }
 
-        //TASK5: Create a method called IsEven that takes an integer parameter called number and returns true if the number is even, and false if the number is odd.
+        //TASK5:Create a method called IsEven that takes an integer parameter called number and returns true if the number is even, and false if the number is odd.
         static bool IsEven(int number)
         {
             return number % 2 == 0;
