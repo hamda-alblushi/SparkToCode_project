@@ -20,7 +20,7 @@
             return (celsius * 9 / 5) + 32;
         }
 
-        //TASK4:display menu and take user input to perform the selected operation
+        //TASK4:display menu and take user input to perform the selected operation 
         static void DisplayMenu() { 
           Console.WriteLine("select an operation:");
           Console.WriteLine("1-start");
