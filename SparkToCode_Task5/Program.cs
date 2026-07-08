@@ -17,7 +17,7 @@
             {
 
                 Console.WriteLine("Enter grade for student : " + (i + 1) + ": ");
-                grades[i] = Convert.ToInt32(Console.ReadLine());
+                grades[i] = Convert.ToInt32(Console.ReadLine()); 
             }
             Console.WriteLine("Student grades are: ");
             foreach (int grade in grades)
