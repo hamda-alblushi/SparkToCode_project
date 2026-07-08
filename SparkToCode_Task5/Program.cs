@@ -143,7 +143,7 @@
                 }
 
 
-                //Task7: highest score podium:
+                //Task7: highest score podium: 
 
                 List<int> scores = new List<int>();
 
