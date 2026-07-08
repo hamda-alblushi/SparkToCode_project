@@ -25,7 +25,7 @@
                 Console.WriteLine(grade);
             }
 
-            //Task 2: Dynamic To do list:
+            //Task 2: Dynamic To do list: 
             List<int> list = new List<int>();
             Console.WriteLine("Enter the number of tasks you want to add: ");
             int numberOfTasks = Convert.ToInt32(Console.ReadLine());
