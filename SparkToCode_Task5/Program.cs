@@ -106,7 +106,7 @@
             Console.WriteLine("Average grade: " + average);
 
 
-            //Task6:filltered shopping list:
+            //Task6:filltered shopping list: 
 
             List<string> shoppingList = new List<string>();
 
