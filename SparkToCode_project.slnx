@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="SparkToCode_Task3/SparkToCode_Task3.csproj" Id="1764da12-c791-4907-bf32-40b6e74415d8" />
+  <Project Path="SparkToCode_Task5/SparkToCode_Task5.csproj" Id="103e69de-6c76-42fb-8b8c-7b194cef9082" />
   <Project Path="SparkToCode_test1/SparkToCode_test1.csproj" />
   <Project Path="Task1/Task1.csproj" Id="72dbbef8-aaae-4aa4-afa4-12abb3bbd762" />
 </Solution>
