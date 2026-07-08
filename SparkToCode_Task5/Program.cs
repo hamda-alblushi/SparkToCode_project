@@ -76,7 +76,7 @@
 
             Console.WriteLine("Customer served: " + servedCustomer);
 
-            //Task5: لowest, highest, and average grade:
+            //Task5: لowest, highest, and average grade: 
 
             int[] grades1 = new int[5];
 
