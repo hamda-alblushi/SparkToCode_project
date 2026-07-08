@@ -13,7 +13,7 @@
             grades[3] = 95;
             grades[4] = 85;
 
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 5; i++) 
             {
 
                 Console.WriteLine("Enter grade for student : " + (i + 1) + ": ");
