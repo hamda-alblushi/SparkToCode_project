@@ -1,6 +1,7 @@
 <Solution>
-  <Project Path="SparkToCode_Task3/SparkToCode_Task3.csproj" Id="1764da12-c791-4907-bf32-40b6e74415d8" />
-  <Project Path="SparkToCode_test1/SparkToCode_test1.csproj" />
-  <Project Path="Task1/Task1.csproj" Id="72dbbef8-aaae-4aa4-afa4-12abb3bbd762" />
+  <Project Path="../../../../../../Desktop/SparkToCode_project/OOP_test/SparkToCode_Task6.csproj" Id="f8f97e02-ab16-4af7-a7d3-fc0b00108b84" />
+  <Project Path="../../../../../../Desktop/SparkToCode_project/SparkToCode_Task3/SparkToCode_Task3.csproj" Id="1764da12-c791-4907-bf32-40b6e74415d8" />
+  <Project Path="../../../../../../Desktop/SparkToCode_project/SparkToCode_test1/SparkToCode_test1.csproj" />
+  <Project Path="../../../../../../Desktop/SparkToCode_project/Task1/Task1.csproj" Id="72dbbef8-aaae-4aa4-afa4-12abb3bbd762" />
 </Solution>
 
