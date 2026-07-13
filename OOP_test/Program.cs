@@ -73,7 +73,7 @@
         private void SendEmail()
         {
             Console.WriteLine("Email notification sent.");
-        }
+        } 
 
     }
 
