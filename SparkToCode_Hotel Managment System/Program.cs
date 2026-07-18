@@ -16,7 +16,7 @@ namespace SparkToCode_Hotel_Managment_System
             rooms.Add(new Room(102, "Single", 25.00));
             rooms.Add(new Room(201, "Double", 40.00));
             rooms.Add(new Room(202, "Double", 40.00));
-            rooms.Add(new Room(301, "Suite", 75.00));
+            rooms.Add(new Room(301, "Suite", 75.00)); 
             rooms.Add(new Room(302, "Suite", 80.00));
 
             bool running = true;
