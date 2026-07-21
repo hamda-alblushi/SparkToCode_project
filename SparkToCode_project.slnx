@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Database_Task/Airline Information System.jpg" />
+    <File Path="Database_Task/college managment system.jpg" />
+    <File Path="Database_Task/Company Database – Requirement.jpg" />
+  </Folder>
   <Project Path="SparkToCode_Hotel Managment System/SparkToCode_Hotel Managment System.csproj" Id="550aa37f-d4dc-49fa-b847-0ebf72bb4876" />
   <Project Path="SparkToCode_Task3/SparkToCode_Task3.csproj" Id="1764da12-c791-4907-bf32-40b6e74415d8" />
   <Project Path="SparkToCode_test1/SparkToCode_test1.csproj" />
