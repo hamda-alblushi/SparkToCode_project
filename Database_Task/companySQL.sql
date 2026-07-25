@@ -1,5 +1,5 @@
 create database CompanyDB;
-
+ 
 use CompanyDB;
 
 create table Employee 
