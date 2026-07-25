@@ -9,7 +9,7 @@ create table Employee
 	Lname varchar(20) not null,
 	Ssn int primary key identity(1, 1),
 	Bdate date,
-	EAddress varchar(100),
+	EAddress varchar(100), 
 	Gender bit default 0,
 	Salary int constraint CK_Employee_Salary check(Salary between 500 and 3500),
 	Supervise_ssn int,
