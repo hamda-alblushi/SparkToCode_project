@@ -14,7 +14,7 @@ namespace EFcore_Project
         // Set by Login(), read by any function that requires a logged-in user,
         // reset back to 0 by Logout().
         static int loggedInUserId = 0;
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             bool exitApp = false;
             while (!exitApp)
