@@ -7,7 +7,7 @@ using System.Text;
 namespace EFcore_Project
 {
     public class ProjectContext : DbContext
-    {
+    { 
         public DbSet<User> users { get; set; } 
         public DbSet<Review> reviews { get; set; }
         public DbSet<Product> products { get; set; }
