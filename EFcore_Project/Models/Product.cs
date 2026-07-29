@@ -8,7 +8,7 @@ namespace EFcore_Project.Models
 {
     public class Product
     {
-        [Key]
+        [Key] 
         public int productId { get; set; }
         public string productName { get; set; }
         public double productPrice { get; set; }
