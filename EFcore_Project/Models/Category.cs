@@ -10,10 +10,10 @@ namespace EFcore_Project.Models
     {
         [Key]
         public int categoryId { get; set; }
-        public string categoryName { get; set; }
+        public  string categoryName { get; set; }
 
 
         [InverseProperty("Category")]
-        public List<Product> products { get; set; }
+        public List<Product> Products { get; set; }
     }
 }
