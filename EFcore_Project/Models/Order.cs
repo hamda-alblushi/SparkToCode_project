@@ -7,7 +7,7 @@ using System.Text;
 namespace EFcore_Project.Models
 {
     public class Order 
-    {
+    { 
         [Key]
         public int orderId { get; set; }
         public string orderDate { get; set; }
